@@ -15,6 +15,8 @@ dependencies:
   flutter_local_notifications: ^16.3.0
   shared_preferences: ^2.2.2
   http: ^1.2.0
+  permission_handler: ^11.3.1
+  geolocator: ^11.0.0
 
 flutter:
   uses-material-design: true
